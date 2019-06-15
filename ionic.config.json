@@ -1,5 +1,7 @@
 {
   "name": "mrklyn-ionic4-backend",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

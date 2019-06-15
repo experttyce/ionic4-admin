@@ -6,7 +6,7 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 
 @Component({
   selector: 'app-root',
-  templateUrl: 'app.component.html'
+  template: '<ion-router-outlet></ion-router-outlet>'
 })
 export class AppComponent {
   constructor(
